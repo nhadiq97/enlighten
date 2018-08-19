@@ -216,3 +216,25 @@ h1.main-logo {
     max-width: 100%;
     margin-bottom: 20px;
 }
+p {
+    margin: 0 0 10px;
+}
+.text-center {
+    text-align: center;
+}
+a.home-button {
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid #333333;
+    color: #333333;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-decoration: none;
+    width: 230px;
+    height: 230px;
+    vertical-align: top;
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+}
